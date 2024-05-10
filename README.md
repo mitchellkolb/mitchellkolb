@@ -33,11 +33,11 @@
 ## ⚙️ Languages and Tools
 
 <div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg"
+        title="c" alt="c"
+        width="40" height="40" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg"
         title="C++" alt="C++"
-        width="40" height="40" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg"
-        title="csharp" alt="csharp"
         width="40" height="40" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"
         title="python" alt="python"
