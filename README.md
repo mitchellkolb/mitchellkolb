@@ -3,17 +3,17 @@
     <h1>Mitchell Kolb</h1>
     <h2>Software Engineer</h2>
     <div id="badges">
-        <a href="https://Mitchell-kolb.github.io" target="_blank">
+        <a href="https://mitchellkolb.github.io" target="_blank">
             <img
                 src="https://img.shields.io/badge/Website-gray?style=for-the-badge&logo=safari&logoColor=white"
                 alt="Website Badge"/>
         </a>
-<!--         <a href="https://www.linkedin.com/in/mitchell-kolb-ab8168252/" target="_blank">
+<!--         <a href="https://www.linkedin.com/in/mitchellkolb-ab8168252/" target="_blank">
             <img
                 src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
                 alt="LinkedIn Badge"/>
         </a> -->
-        <a href="mailto: mitchell.kolb@wsu.edu" target="_blank">
+        <a href="mailto: mitchellkolb.work@gmail.com" target="_blank">
             <img
                 src="https://img.shields.io/badge/Contact Me-orange?style=for-the-badge&logo=minutemailer&logoColor=white"
                 alt="Email Badge"/>
@@ -33,14 +33,14 @@
 ## ⚙️ Languages and Tools
 
 <div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"
+        title="python" alt="python"
+        width="40" height="40" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg"
         title="c" alt="c"
         width="40" height="40" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg"
         title="C++" alt="C++"
-        width="40" height="40" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"
-        title="python" alt="python"
         width="40" height="40" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"
         title="vscode" alt="vscode"
@@ -62,17 +62,17 @@
     <table>
     <tr>
         <td>
-            <a href="https://github.com/Mitchell-kolb/">
+            <a href="https://github.com/mitchellkolb/">
                 <img
                     align="center"
-                    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mitchell-kolb&hide=html,tcl,jupyter%20notebook&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact&langs_count=10"
+                    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitchellkolb&hide=html,tcl,jupyter%20notebook&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact&langs_count=10"
                 />
             </a>
             <td>
-            <a href="https://github.com/Mitchell-kolb/">
+            <a href="https://github.com/mitchellkolb/">
                 <img
                     align="center"
-                    src="https://github-readme-stats.vercel.app/api?username=Mitchell-kolb&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"
+                    src="https://github-readme-stats.vercel.app/api?username=mitchellkolb&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"
                     alt="Kyle's GitHub Stats"
                 />
             </a>
