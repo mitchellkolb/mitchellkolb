@@ -1,7 +1,7 @@
 <!-- Header Information -->
 <div id="header" align="center">
     <h1>Mitchell Kolb</h1>
-    <h2>Software Engineer</h2>
+    <h2>Software Developer</h2>
     <div id="badges">
         <a href="https://mitchellkolb.github.io" target="_blank">
             <img
@@ -26,9 +26,9 @@
 
 ## 👤 About Me
 
-- 🏫 Computer Science Graduate
-- 💻 Programmer
-- ⏲️ Cook
+- Computer Science Graduate
+- Programmer
+- Electronics Hobbyist
 
 ## ⚙️ Languages and Tools
 
