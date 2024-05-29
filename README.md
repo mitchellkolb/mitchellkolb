@@ -71,7 +71,7 @@ I'm a software developer who has a passion for creating impactful technology. I'
 
 <div style="display: flex; align-items: flex-start;">
   <img src="https://github-readme-stats.vercel.app/api?username=mitchellkolb&theme=codeSTACKr&show_icons=true" alt="Mitchell's GitHub stats" style="margin-left: 0px;"/>
-  <img src="https://streak-stats.demolab.com?user=mitchellkolb&theme=codeSTACKr&date_format=M%20j%5B%2C%20Y%5D&card_width=300&card_height=194&hide_current_streak=true" alt="Mitchell's GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=mitchellkolb&theme=codeSTACKr&date_format=M%20j%5B%2C%20Y%5D&card_width=300&card_height=194&hide_current_streak=true&hide_border=true" alt="Mitchell's GitHub Streak"/>
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitchellkolb&theme=codeSTACKr&hide_progress=false" alt="Mitchell's Github Languages" style="margin-left: 10px;"/> -->
 </div>
 
