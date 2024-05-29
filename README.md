@@ -49,8 +49,6 @@ I'm a software developer who has a passion for creating impactful technology. I'
 <img align="left" alt="Insomnia" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" />
 <br />
 
----
-
 # 
 
 ### 📈 Stats
