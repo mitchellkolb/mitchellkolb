@@ -54,7 +54,7 @@ I'm a software developer who has a passion for creating impactful technology. I'
 
 ---
 
-### 📈 Stats
+### 📈 Statsa
 
 <div style="display: flex; align-items: flex-start;">
   <img src="https://github-readme-stats.vercel.app/api?username=mitchellkolb&theme=codeSTACKr&show_icons=true" alt="Mitchell's GitHub stats" style="margin-left: 0px;"/>
