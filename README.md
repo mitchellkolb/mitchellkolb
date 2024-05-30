@@ -62,7 +62,7 @@ I'm a software developer who has a passion for creating impactful technology. I'
 
 <details>
  <summary><h3>👨‍💻 My Coding Journey</h3></summary>
-   I started my coding journey as an AP computer science student in highschool with a passion to learn everything I could about this programming world - code, unix, linux, theory. 
+   I started my coding journey after I built my first computer in highschool and then soon after took a course called AP computer science and that started a fire in me to learn everything I could about the programming world. By the end of that course I had used tools like scratch and python to build basic programs that would reienforce the ideas I learned in class like variables, functions, and software flow while learning about the internet of things. During the later years of high school I built a couple more computers for my friends and would continue using python to make little programs to automate my life, like opening a group of apps with some text copied to my clipboard or batch renaming files on my desktop by looping through them. What I really enjoyed though, was exploring the many libraries python had to offer like extracting information from websites using requests or making small games using pygame. When I entered college 
 
 
 
