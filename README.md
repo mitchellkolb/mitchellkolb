@@ -9,7 +9,7 @@ I'm a software developer who has a passion for creating impactful technology. I'
         <img alt="Website" src="https://img.shields.io/badge/Portfolio Site-BE4B1F?style=for-the-badge&logo=safari&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/mitchellkolb/" target="_blank">
         <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-236ad3?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="mailto: mitchellkolb.work@gmail.com" target="_blank">
+  <a href="mailto: mitchellkolb.work@gmail.com" target="_blank">
         <img alt="Contact" src="https://img.shields.io/badge/Contact Me-55960c?style=for-the-badge&logo=minutemailer&logoColor=white"/></a>   
 </p>
 
@@ -62,7 +62,11 @@ I'm a software developer who has a passion for creating impactful technology. I'
 
 <details>
  <summary><h3>👨‍💻 My Coding Journey</h3></summary>
-   I started my coding journey after I built my first computer in highschool and then soon after took a course called AP computer science and that started a fire in me to learn everything I could about the programming world. By the end of that course I had used tools like scratch and python to build basic programs that would reienforce the ideas I learned in class like variables, functions, and software flow while learning about the internet of things. During the later years of high school I built a couple more computers for my friends and would continue using python to make little programs to automate my life, like opening a group of apps with some text copied to my clipboard or batch renaming files on my desktop by looping through them. What I really enjoyed though, was exploring the many libraries python had to offer like extracting information from websites using requests or making small games using pygame. When I entered college 
+   I started my coding journey in high school when I built my first computer and took an AP Computer Science course. This ignited a passion to learn everything I could about programming. By the end of the course, I had used tools like Scratch and Python to build basic programs, reinforcing concepts like variables, functions, software flow, and the Internet of Things. During high school, I built more computers for friends and created Python programs to automate tasks, such as opening apps and batch renaming pictures. I loved exploring Python's libraries, like Requests for web scraping and Pygame for game development.
+
+In college, I delved into topics like AND/OR gates, file systems, user story documentation, and software security. I started with C/C++ to learn memory allocation, inheritance, encapsulation, and data structures, then moved to Python for web development, higher-order functions, recursion, and data mining. College challenged me, but my persistence to get things right kept me going. I eventually led the development of a data automation tool for the psychology department, which helped a doctoral candidate defend her dissertation. Knowing my work had a direct impact on someone's academic success was incredibly fulfilling.
+
+Recently, I've enjoyed working through the entire software development cycle—from planning and documenting use cases to refining user experiences and creating executable software. I believe first impressions matter, and solving UI/UX problems is a passion of mine. My goal is to work as a software developer for a company that genuinely improves people's lives, whether by creating music software to help people unwind or developing medical tools that provide critical data to patients. I aim to work on projects that make a real difference in daily lives, ensuring what I create is both useful and impactful.
 
 
 
@@ -70,7 +74,7 @@ I'm a software developer who has a passion for creating impactful technology. I'
 Thank you so much to these sources which gave me inspiration for how I should design my readme 
 
 https://devicon.dev/
-    - For SVG Icons
+    - For tools SVG Icons
 
 https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file
     - For github stats graphics 
@@ -83,7 +87,7 @@ https://github.com/ForrestKnight
     - Made a video about how to create github readme's
 
 https://github.com/khurd21
-    - For my inital version of my readme.md
+    - For the idea of the "v1" of my readme.md
 
 
 -->
