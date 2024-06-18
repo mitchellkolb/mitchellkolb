@@ -61,7 +61,7 @@ I'm a software developer who has a passion for creating impactful technology. I'
 
 
 <details>
- <summary><h3>👨‍💻 My Coding Journey</h3></summary>
+ <summary><h3>👨‍💻 My Coding Journey  <--[Click to Reveal]</h3></summary>
  <p>I started my coding journey in high school when I built my first computer and took an AP Computer Science course. This ignited a passion to learn everything I could about programming. By the end of the course, I had used tools like Scratch and Python to build basic programs, reinforcing concepts like variables, functions, software flow, and the Internet of Things. During high school, I built more computers for friends and created Python programs to automate tasks, such as opening apps and batch renaming pictures. I loved exploring Python's libraries, like Requests for web scraping and Pygame for game development.</p>
  
  <p>In college, I delved into topics like digital design, file systems, user story documentation, and software security. I started with the programming languages C/C++ to learn memory allocation, inheritance, encapsulation, and data structures, then moved to Python for web development, higher-order functions, recursion, and data mining. College challenged me, but my persistence to get things right kept me going. I eventually was contracted to lead the development of a data automation tool for the psychology department, which helped a doctoral candidate defend her dissertation. Knowing my work had a direct impact on someone's academic success was incredibly fulfilling.</p>
