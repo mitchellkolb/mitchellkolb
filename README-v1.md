@@ -22,7 +22,7 @@
 </div>
 
 
-<!-- Intro -->
+<!-- Introduction -->
 
 ## 👤 About Me
 
