@@ -5,7 +5,7 @@
 I'm a software developer who has a passion for creating impactful technology. I've tackled a diverse range of projects, from automating data analysis for neuropsychological research to developing interactive environmental data platforms. My development style blends careful planning, flexible strategies, and a constant eagerness to innovate. Whether it's optimizing routes across thousands of airports or crafting user-friendly interfaces, I aim to deliver solutions that not only work but inspire.
 
 <p align="left">
-  <a href="https://mitchellkolb.github.io" target="_blank">
+  <a href="https://mitchellkolb.com/" target="_blank">
         <img alt="Website" src="https://img.shields.io/badge/Portfolio Site-BE4B1F?style=for-the-badge&logo=safari&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/mitchellkolb/" target="_blank">
         <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-236ad3?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
