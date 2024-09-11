@@ -50,7 +50,7 @@ I'm a software developer who has a passion for creating impactful technology. I'
 </div>
 
 
-<br clear="all" />
+<!-- <br clear="all" /> -->
 
 #
 
